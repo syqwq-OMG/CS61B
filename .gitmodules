@@ -1,3 +1,6 @@
 [submodule "fa24-syqwq"]
 	path = fa24-syqwq
 	url = https://github.com/syqwq-OMG/fa24-syqwq.git
+[submodule "library-fa24"]
+	path = library-fa24
+	url = https://github.com/Berkeley-CS61B/library-fa24.git
