@@ -1,7 +1,31 @@
 # CS61B: Data Structures and Algorithms
 > It is the second course of UC Berkeley's CS61 series. It mainly focuses on the design of data structures and algorithms as well as giving students the opportunity to be exposed to thousands of lines of engineering code and gain a preliminary understanding of software engineering through Java.
 
-## Index
+## File Structure
+```
+CS61B
+├── README.md
+├── fa24-syqwq
+│   ├── hw0b
+│   ├── hw2
+│   ├── lab01
+│   ├── lab02
+│   ├── lab03
+│   ├── lab04
+│   ├── lab05
+│   ├── lab06
+│   ├── lab07
+│   ├── lab08
+│   ├── lab09
+│   ├── lab10
+│   ├── proj0
+│   ├── proj1a
+│   ├── proj1b
+│   ├── proj2a
+│   ├── proj2b
+│   └── proj3
+└── library-fa24
+```
 
 ## TimeLine
 - **Nov. 16th 2024**
