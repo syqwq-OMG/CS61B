@@ -4,6 +4,11 @@
 ## Index
 
 ## TimeLine
+- **Nov. 16th 2024**
+  1. finish lab01(basic setup for assignments), hw0a(very basic syntax of java) 
+
+- **Nov. 23th 2024**
+  1. finish hw0b
 
 ## References
 - https://fa24.datastructur.es
