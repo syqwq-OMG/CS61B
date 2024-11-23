@@ -33,6 +33,7 @@ CS61B
 
 - **Nov. 23th 2024**
   1. finish hw0b
+  2. finish lab02(debugging breakpoint and conditional breakpoint)
 
 ## Tips
 1. i use Java 17, when coding a new project, remember to add the library file to `project structure`, and set the `language level` to `17 sealed type balabala ...`
